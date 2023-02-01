@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi my name Amira Ahmed 
+I am a student in the Faculty of Computers and Information Technology
+I am studying in my third year at a university EELU
+gpa in the current academic year is A-
