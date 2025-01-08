@@ -6,10 +6,10 @@
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
   <!-- Add your social media links -->
-  <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/amira-hashem-505729284/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto:hashemamira69@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" />
   </a>
 </p>
